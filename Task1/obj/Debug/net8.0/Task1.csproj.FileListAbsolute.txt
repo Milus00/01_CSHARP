@@ -1,0 +1,14 @@
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/bin/Debug/net8.0/Task1
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/bin/Debug/net8.0/Task1.dll
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.dll
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/Mila/Desktop/01_CHARP/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
